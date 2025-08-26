@@ -1,7 +1,7 @@
 PLUGIN.name = "Medical"
 PLUGIN.description = "Medicine system for Helix"
 PLUGIN.author = "Miller"
-PLUGIN.version = "1.0"
+PLUGIN.version = "1.0.1"
 
 if SERVER then
     MsgC(Color(0, 180, 255), "[ObeliskRP] ", Color(255,255,255), "Плагин ", Color(0,180,255), PLUGIN.name, Color(255,255,255), " успешно загружен! ", Color(0,255,0), "Версия " .. PLUGIN.version .. "\n")
